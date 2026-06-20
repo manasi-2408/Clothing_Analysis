@@ -49,32 +49,32 @@ This project aims to:
 ```text
 Clothing_Analysis
 │
-├── Data_Cleaning
+├── 01_Data_Preparation
 │   ├── clothing_data.csv
 │   ├── cleaned_excel.csv
 │   └── cleaning.ipynb
 │
-├── Data_Analysis
+├── 02_Exploratory_Analysis
 │   ├── analysing.ipynb
 │   ├── visualization.ipynb
 │   ├── cleaned_excel.csv
 │   └── final_data.csv
 │
-├── Data_Mining
+├── 03_Customer_Insights
 │   ├── mining.ipynb
 │   ├── association_rules.csv
 │   └── cleaned_excel.csv
 │
-├── SQL
+├── 04_SQL_Analysis
 │   └── clothing.sql
 │
-├── Power_BI
+├── 05_PowerBI_Dashboard
 │   └── clothing.pbix
 │
-├── Documentation
+├── 06_Project_Documentation
 │   └── clothing.docx
 │
-└── Images
+└── 07_Dashboard_Assets
     ├── one.png
     ├── two.png
     ├── three.png
