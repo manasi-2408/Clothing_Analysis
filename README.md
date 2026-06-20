@@ -183,25 +183,25 @@ Customer segmentation was performed using:
 
 ## Executive Sales Dashboard
 
-![Executive Dashboard](Images/one.png)
+![Executive Dashboard](07_Dashboard_Assets/one.png)
 
 ---
 
 ## Customer Behaviour Dashboard
 
-![Customer Dashboard](Images/two.png)
+![Customer Dashboard](07_Dashboard_Assets/two.png)
 
 ---
 
 ## Customer Segmentation Dashboard
 
-![Segmentation Dashboard](Images/three.png)
+![Segmentation Dashboard](07_Dashboard_Assets/three.png)
 
 ---
 
 ## Market Basket Analysis Dashboard
 
-![Market Basket Dashboard](Images/four.png)
+![Market Basket Dashboard](07_Dashboard_Assets/four.png)
 
 ---
 
